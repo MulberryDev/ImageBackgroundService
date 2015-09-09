@@ -1,0 +1,6 @@
+H:\FileBackgroundService\FileBackgroundService\bin\Debug\FileBackgroundService.exe.config
+H:\FileBackgroundService\FileBackgroundService\bin\Debug\FileBackgroundService.exe
+H:\FileBackgroundService\FileBackgroundService\bin\Debug\FileBackgroundService.pdb
+H:\FileBackgroundService\FileBackgroundService\obj\Debug\FileBackgroundService.csprojResolveAssemblyReference.cache
+H:\FileBackgroundService\FileBackgroundService\obj\Debug\FileBackgroundService.exe
+H:\FileBackgroundService\FileBackgroundService\obj\Debug\FileBackgroundService.pdb
