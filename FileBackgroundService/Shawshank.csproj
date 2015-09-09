@@ -50,6 +50,9 @@
     <Compile Include="WindowsService.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="WindowsServiceInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">

@@ -7,10 +7,6 @@ namespace FileBackgroundService
 {
     class FolderRouter
     {
-        static void Main(string[] args)
-        {
-            Run();
-        }
 
         [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]
         public static void Run()

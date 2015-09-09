@@ -52,9 +52,9 @@ namespace FileBackgroundService
             base.OnShutdown();
         }
 
-        protected override void OnPowerEvent(PowerBroadcastStatus powerStatus)
+        protected override bool OnPowerEvent(PowerBroadcastStatus powerStatus)
         {
-            base.OnPowerEvent(powerStatus);
+            return base.OnPowerEvent(powerStatus);
         }
 
         protected override void OnSessionChange(SessionChangeDescription changeDescription)
