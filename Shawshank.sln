@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shawshank", "FileBackgroundService\Shawshank.csproj", "{F5508AEB-5979-43CD-8403-D0CEBA43D9B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shawshank", "Shawshank\Shawshank.csproj", "{F5508AEB-5979-43CD-8403-D0CEBA43D9B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

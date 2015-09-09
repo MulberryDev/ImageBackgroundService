@@ -19,7 +19,11 @@ namespace FileBackgroundService
             serviceProcessInstaller.Password = null;
 
             serviceInstaller.DisplayName = "Shawshank";
+            serviceInstaller.StartType = ServiceStartMode.Automatic;
+            serviceInstaller.ServiceName = "Shawshank";
 
+            this.Installers.Add(serviceProcessInstaller);
+            this.Installers.Add(serviceInstaller);
         }
     }
 }
